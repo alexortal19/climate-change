@@ -17,7 +17,7 @@ Primary: Does the country spewing more CO2 than the rest of the world gets more 
 
 HYPOTHESIS:
 Primary: I don’t think so since I believe these are the developed countries which would have avenues to protect themselves.
-1.	China, India, Unites States of America
+1.	China, India, United States of America
 2.	Japan, Philippines, Tuvalu
 
 
